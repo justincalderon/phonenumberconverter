@@ -1,5 +1,11 @@
 #phoneInput {
   width: 35%;
   margin-left: 170px;
+  margin-top: 50px;
   text-align: center;
+}
+
+#inputBtn {
+  margin-left: 225px;
+  margin-top: 15px;
 }
